@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.csv
+
+# Original Dextrain files (not ours to share) and local test scripts
+*.dll
+*.cs
+dextrain_ctypes.py
+compare_dll_vs_nidaqmx.py
+dextrain_timing_benchmark.py
+dextrain_latency_report.py
